@@ -1,12 +1,16 @@
-# UpStarMusic
-Starter Repo for a MongoDB course on Udemy
+### Introduction
+- Build while following the course on [MongoDB](https://www.udemy.com/react-redux/).
+- Aim of this project was to get a basic understanding of MongoDb.
+- App represent an artist and album library.
+- Front-end is build on React-Redux. This was included in the boilerplate of this course, so this code is not manually being written.
 
-You can download this repository by using the green `Clone or Download` button on the right hand side of this page.  This will present you with the option to either clone the repository using Git, or to download it as a zip file.
 
-If you want to download it using git, copy paste the link that is presented to you, then run the following at your terminal:
+### Functionalities
+- Basic CRUD functionalities.
+- Bulk update.
+- Find min. & .max number of a property  in a collection.
+- Filter based on text.
+- Filter based on a number assigned to a property.
 
-```
-git clone https://github.com/StephenGrider/UpStarMusic.git
-cd UpStarMusic
-npm install
-```
+### Visual Representation App
+<img align="center" src="./artist-album.gif" width="30%" alt="artist-album-app"/>
