@@ -12,5 +12,5 @@
 - Filter based on text.
 - Filter based on a number assigned to a property.
 
-### Visual Representation App
-<img align="center" src="./artistAlbumApp.gif" width="30%" alt="artist-album-app"/>
+
+<img align="center" src="./artistAlbumApp.gif" width="50%" alt="artist-album-app"/>
